@@ -10,6 +10,7 @@
  * Starts the program. Checks for the -h help argument, then launches the user interface.
  */
 
+ //UPDATE
 
 #include <stdio.h>
 #include <string.h>
